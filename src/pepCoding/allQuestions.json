@@ -1,0 +1,1538 @@
+[
+    {
+        "id": "0",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/variables-in-java-mcq-official/mcq",
+        "question_text": ""
+    },
+    {
+        "id": "1",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/loops_official/topic",
+        "question_text": "loops"
+    },
+    {
+        "id": "2",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/is-number-prime-official/ojquestion",
+        "question_text": "Is a number Prime"
+    },
+    {
+        "id": "3",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/print-all-primes-till-n-official/ojquestion",
+        "question_text": "Print All Prime numbers"
+    },
+    {
+        "id": "4",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/fibonacci-till-n-official/ojquestion",
+        "question_text": "Fibonacci numbers"
+    },
+    {
+        "id": "5",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/count-digits-official/ojquestion",
+        "question_text": "Count Digits"
+    },
+    {
+        "id": "6",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/digits-of-a-number-official/ojquestion",
+        "question_text": "Digits of a Number"
+    },
+    {
+        "id": "7",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/reverse-a-number-official/ojquestion",
+        "question_text": "Reverse a Number"
+    },
+    {
+        "id": "8",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/benjamin-bulbs-official/ojquestion",
+        "question_text": "Benjamin Bulbs"
+    },
+    {
+        "id": "9",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/inverse-of-a-number-official/ojquestion",
+        "question_text": "Inverse of a number"
+    },
+    {
+        "id": "10",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/gcd-and-lcm-official/ojquestion",
+        "question_text": "GCD and LCM"
+    },
+    {
+        "id": "11",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/prime-factorization-official/ojquestion",
+        "question_text": "Prime Factorisation"
+    },
+    {
+        "id": "12",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/pythagorean-triplet-official/ojquestion",
+        "question_text": "Pythagorean theorm"
+    },
+    {
+        "id": "13",
+        "topic": "Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/getting-started/rotate-a-number-official/ojquestion",
+        "question_text": "Rotate a number"
+    },
+    {
+        "id": "14",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-1-official/ojquestion",
+        "question_text": "pattern 1"
+    },
+    {
+        "id": "15",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-2-official/ojquestion",
+        "question_text": "pattern 2"
+    },
+    {
+        "id": "16",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-3-official/ojquestion",
+        "question_text": "pattern 3"
+    },
+    {
+        "id": "17",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-4-official/ojquestion",
+        "question_text": "pattern 4"
+    },
+    {
+        "id": "18",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-5-official/ojquestion",
+        "question_text": "pattern 5"
+    },
+    {
+        "id": "19",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-6-official/ojquestion",
+        "question_text": "pattern 6"
+    },
+    {
+        "id": "20",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-7-official/ojquestion",
+        "question_text": "pattern 7"
+    },
+    {
+        "id": "21",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-8-official/ojquestion",
+        "question_text": "pattern 8"
+    },
+    {
+        "id": "22",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-9-official/ojquestion",
+        "question_text": "pattern 9"
+    },
+    {
+        "id": "23",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-10-official/ojquestion",
+        "question_text": "pattern 10"
+    },
+    {
+        "id": "24",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-11-official/ojquestion",
+        "question_text": "pattern 11"
+    },
+    {
+        "id": "25",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-12-official/ojquestion",
+        "question_text": "pattern 12"
+    },
+    {
+        "id": "26",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-13-official/ojquestion",
+        "question_text": "pattern 13"
+    },
+    {
+        "id": "27",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-14-official/ojquestion",
+        "question_text": "pattern 14"
+    },
+    {
+        "id": "28",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-15-official/ojquestion",
+        "question_text": "pattern 15"
+    },
+    {
+        "id": "29",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-16-official/ojquestion",
+        "question_text": "pattern 16"
+    },
+    {
+        "id": "30",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-17-official/ojquestion",
+        "question_text": "pattern 17"
+    },
+    {
+        "id": "31",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-18-official/ojquestion",
+        "question_text": "pattern 18"
+    },
+    {
+        "id": "32",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-19-official/ojquestion",
+        "question_text": "pattern 19"
+    },
+    {
+        "id": "33",
+        "topic": "Pattern",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/patterns/design-pattern-20-official/ojquestion",
+        "question_text": "pattern 20"
+    },
+    {
+        "id": "34",
+        "topic": "Base Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/decimal-to-any-base-official/ojquestion",
+        "question_text": "Decimal to any base"
+    },
+    {
+        "id": "35",
+        "topic": "Base Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/any-base-to-decimal-official/ojquestion",
+        "question_text": "Any base to decimal"
+    },
+    {
+        "id": "36",
+        "topic": "Base Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/any-base-to-any-base-official/ojquestion",
+        "question_text": "Any base to any base"
+    },
+    {
+        "id": "37",
+        "topic": "Base Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/any-base-addition-official/ojquestion",
+        "question_text": "Any base addition"
+    },
+    {
+        "id": "38",
+        "topic": "Base Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/any-base-subtraction-official/ojquestion",
+        "question_text": "Any base subtraction"
+    },
+    {
+        "id": "39",
+        "topic": "Base Number",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/any-base-multiplication-official/ojquestion",
+        "question_text": "Any base product"
+    },
+    {
+        "id": "40",
+        "topic": "",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/bar-chart-official/ojquestion",
+        "question_text": "Bar Chart"
+    },
+    {
+        "id": "41",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/bar-chart-official/ojquestion",
+        "question_text": "Sum of two arrays"
+    },
+    {
+        "id": "42",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/difference-of-two-arrays-official/ojquestion",
+        "question_text": "Subtraction of two arrays"
+    },
+    {
+        "id": "43",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/inverse-of-an-array-official/ojquestion",
+        "question_text": "Inverse of Array"
+    },
+    {
+        "id": "44",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/subarray-problem-official/ojquestion",
+        "question_text": "Subarray of array"
+    },
+    {
+        "id": "45",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/rotate-an-array-official/ojquestion",
+        "question_text": "Rotate An Array"
+    },
+    {
+        "id": "46",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/broken_economy/topic",
+        "question_text": "Find floor and ceil of a number in sorted array"
+    },
+    {
+        "id": "47",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/first_and_last_index/topic",
+        "question_text": "Find first and last index of element in sorted array"
+    },
+    {
+        "id": "48",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/subsets_of_array/topic",
+        "question_text": "Find all subsets(Subsequence) of array"
+    },
+    {
+        "id": "49",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/matrix_multiplication/topic",
+        "question_text": "Matrix Multiplication"
+    },
+    {
+        "id": "50",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/wakanda-1-official/ojquestion",
+        "question_text": "Wave traversal in matrix"
+    },
+    {
+        "id": "51",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/spiral-display-official/ojquestion",
+        "question_text": "Spiral display of matrix"
+    },
+    {
+        "id": "52",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/exit_point_of_a_matrix/topic",
+        "question_text": "Exit point of a matrix"
+    },
+    {
+        "id": "53",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/rotate_by_90_degrees/topic",
+        "question_text": "Rotate matrix by 90 degree"
+    },
+    {
+        "id": "54",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/the_state_of_wakanda_2/topic",
+        "question_text": "Print matrix diagonally"
+    },
+    {
+        "id": "55",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/ring_rotate/topic",
+        "question_text": "Ring rotate in matrix"
+    },
+    {
+        "id": "56",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/saddle-price-official/ojquestion",
+        "question_text": "Saddle point of a matrix"
+    },
+    {
+        "id": "57",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/search-in-a-sorted-2d-array-official/ojquestion",
+        "question_text": "Search element in sorted 2D array(matrix)"
+    },
+    {
+        "id": "58",
+        "topic": "Matrix",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/print_all_palindromic_substrings/topic",
+        "question_text": "All palindromic substrings of a string"
+    },
+    {
+        "id": "59",
+        "topic": "String",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/string_compression/topic",
+        "question_text": "String compression"
+    },
+    {
+        "id": "60",
+        "topic": "String",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/string_with_difference_of_every_two_consecutive_characters/topic",
+        "question_text": "char difference in string"
+    },
+    {
+        "id": "61",
+        "topic": "String",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/print_all_permutations_of_a_string_iteratively/topic",
+        "question_text": "Print all permutations of a string"
+    },
+    {
+        "id": "62",
+        "topic": "Array",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/remove_all_primes/topic",
+        "question_text": "Remove all prime numbers from array"
+    },
+    {
+        "id": "63",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/print_decreasing/topic",
+        "question_text": "Print numbers in descending order using recursion"
+    },
+    {
+        "id": "64",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/print_increasing/topic",
+        "question_text": "Print numbers in ascending order using recursion"
+    },
+    {
+        "id": "65",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/print_increasing_decreasing/topic",
+        "question_text": "Print Numbers in descending to ascending by recursion"
+    },
+    {
+        "id": "66",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/factorial/topic",
+        "question_text": "Factorial using recursion"
+    },
+    {
+        "id": "67",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/factorial/topic",
+        "question_text": "Find power of a number using recursion"
+    },
+    {
+        "id": "68",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/power-logarithmic-official/ojquestion",
+        "question_text": "Print zigZag of numbers using recursion"
+    },
+    {
+        "id": "69",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/introduction-to-recursion/tower_of_hanoi/topic",
+        "question_text": "Print tower of hanoi using recursion"
+    },
+    {
+        "id": "70",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/display_arrays/topic",
+        "question_text": "Print array elements using recursion"
+    },
+    {
+        "id": "71",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/display_array_in_reverse/topic",
+        "question_text": "Print array in reverse using recursion"
+    },
+    {
+        "id": "72",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/max_of_an_array/topic",
+        "question_text": "Find max of array using recursion"
+    },
+    {
+        "id": "73",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/first_index_of_occurrence/topic",
+        "question_text": "Find first index of element in array using recursion"
+    },
+    {
+        "id": "74",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/last_index/topic",
+        "question_text": "Find last index of element in array using recursion"
+    },
+    {
+        "id": "75",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-in-arrays/all_indices_in_an_array/topic",
+        "question_text": "Find all indexes of element in array using recusion"
+    },
+    {
+        "id": "76",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get_subsequence/topic",
+        "question_text": "Print all subsequence of string stored in array"
+    },
+    {
+        "id": "77",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get_kpc/topic",
+        "question_text": "get all the key combination of mobile keys pressed"
+    },
+    {
+        "id": "78",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get_stair_paths/topic",
+        "question_text": "Print stair paths with given steps limit by recursion"
+    },
+    {
+        "id": "79",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get_maze_paths/topic",
+        "question_text": "Print all the maze exit path using recursion"
+    },
+    {
+        "id": "80",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get_maze_paths_with_jumps/topic",
+        "question_text": "Print all maze paths with jump steps by recusion"
+    },
+    {
+        "id": "81",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_subsequence/topic",
+        "question_text": "Only print all the subsequence of string by recursion"
+    },
+    {
+        "id": "82",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_Kpc/topic",
+        "question_text": "Print all kpc with recursion without storing "
+    },
+    {
+        "id": "83",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_stairs_paths/topic",
+        "question_text": "Print all stair paths"
+    },
+    {
+        "id": "84",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_maze_path/topic",
+        "question_text": "Print maze all paths horizonal & vertical step"
+    },
+    {
+        "id": "85",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_maze_path/topic",
+        "question_text": "Print maze path with jumps using recursion"
+    },
+    {
+        "id": "86",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_permutation/topic",
+        "question_text": "Print all permutation of a string"
+    },
+    {
+        "id": "87",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-on-the-way-up/print_encodings/topic",
+        "question_text": "Print encoding of numbers"
+    },
+    {
+        "id": "88",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-backtracking/flood_fill/topic",
+        "question_text": "Flood fill"
+    },
+    {
+        "id": "89",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-backtracking/target_sum_subsets/topic",
+        "question_text": "Target sum subsets"
+    },
+    {
+        "id": "90",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-backtracking/n_queens/topic",
+        "question_text": "N Queens"
+    },
+    {
+        "id": "91",
+        "topic": "Recursion",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/recursion-backtracking/knights_tour/topic",
+        "question_text": "Knight tour"
+    },
+    {
+        "id": "92",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/bubble_sort/topic",
+        "question_text": "Bubble sort"
+    },
+    {
+        "id": "93",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/selection_sort/topic",
+        "question_text": "Selection sort"
+    },
+    {
+        "id": "94",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/insertion_sort/topic",
+        "question_text": "Insertion sort"
+    },
+    {
+        "id": "95",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/merge_two_sorted_arrays%20/topic",
+        "question_text": "Merge two sorted arrays"
+    },
+    {
+        "id": "96",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/merge_sort/topic",
+        "question_text": "Merge sort"
+    },
+    {
+        "id": "97",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/partition_an_array/topic",
+        "question_text": "Partition of array "
+    },
+    {
+        "id": "98",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/quick_sort/topic",
+        "question_text": "Quick sort"
+    },
+    {
+        "id": "99",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/quick_select/topic",
+        "question_text": "Quick select"
+    },
+    {
+        "id": "100",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/count_sort/topic",
+        "question_text": "Count sort"
+    },
+    {
+        "id": "101",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/radix_sort/topic",
+        "question_text": "Radix sort"
+    },
+    {
+        "id": "102",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/sort_dates/topic",
+        "question_text": "Sort dates"
+    },
+    {
+        "id": "103",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/sort_01/topic",
+        "question_text": "Sort 0 and 1 array"
+    },
+    {
+        "id": "104",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/sort_012/topic",
+        "question_text": "Sort 0, 1 & 2 array"
+    },
+    {
+        "id": "105",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/target_sum_pair_1/topic",
+        "question_text": "Target sum pair"
+    },
+    {
+        "id": "106",
+        "topic": "Sorting",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/time-and-space-complexity/pivot-sorted-rotated-array-official/ojquestion",
+        "question_text": "Find pivot of sorted and rotated array"
+    },
+    {
+        "id": "107",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/fibonacci_dp/topic",
+        "question_text": "Fibonacci with dp"
+    },
+    {
+        "id": "108",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb_stairs/topic",
+        "question_text": "Climb Stairs"
+    },
+    {
+        "id": "109",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb_stairs_with_variable_jumps/topic",
+        "question_text": "Stair path with variable jumps"
+    },
+    {
+        "id": "110",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb_stairs_with_minimum_moves/topic",
+        "question_text": "Climb stairs with minimum moves"
+    },
+    {
+        "id": "111",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/min_cost_in_maze_traversal/topic",
+        "question_text": "Minimum cost in maze traversal"
+    },
+    {
+        "id": "112",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/goldmine/topic",
+        "question_text": "Maximum gold from goldmine"
+    },
+    {
+        "id": "113",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/target_sum_subsets_dp/topic",
+        "question_text": "Target sum subset "
+    },
+    {
+        "id": "114",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/coin-change-combination-official/ojquestion",
+        "question_text": "Coin change Combination"
+    },
+    {
+        "id": "115",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/coin_change_permutations/topic",
+        "question_text": "Coin change permutation"
+    },
+    {
+        "id": "116",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/zero_one_knapsack/topic",
+        "question_text": "Knapsack weight and value problem"
+    },
+    {
+        "id": "117",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/unbounded_knapsack/topic",
+        "question_text": "Unbounded Knapsack"
+    },
+    {
+        "id": "118",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/fractional-knapsack-official/ojquestion",
+        "question_text": "Fractional Knapsack - Official"
+    },
+    {
+        "id": "119",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/count_binary_strings/topic",
+        "question_text": "Count binary strings without consicutive zeros"
+    },
+    {
+        "id": "120",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/arrange_buildings/topic",
+        "question_text": "Arrange buildings"
+    },
+    {
+        "id": "121",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/count_encodings/topic",
+        "question_text": "Count encoding"
+    },
+    {
+        "id": "122",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/count_a_+_b_+_c_subsequences/topic",
+        "question_text": "Count a+b+c+ subsequences"
+    },
+    {
+        "id": "123",
+        "topic": "DPDP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/maximum_sum_non_adjacent_elements/topic",
+        "question_text": "Maximum Sum Non Adjacent Elements"
+    },
+    {
+        "id": "124",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/paint_house/topic",
+        "question_text": "Paint House min cost-no adjacent house paint should be same"
+    },
+    {
+        "id": "125",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/paint_house_many_colors/topic",
+        "question_text": "Paint House-Many Colors- avoid adjacent same color"
+    },
+    {
+        "id": "126",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/paint_fence/topic",
+        "question_text": "Paint Fence"
+    },
+    {
+        "id": "127",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/tilling_with_2_*_1_tiles/topic",
+        "question_text": "Tiling with 2x1 tiles"
+    },
+    {
+        "id": "128",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/tiling_with_mx1_tiles/topic",
+        "question_text": "Tiling With Mx1 Tiles"
+    },
+    {
+        "id": "129",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/friends_pairing/topic",
+        "question_text": "Friends Pairing"
+    },
+    {
+        "id": "130",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/partition_into_subsets/topic",
+        "question_text": "Partition Into Subsets"
+    },
+    {
+        "id": "131",
+        "topic": "DP",
+        "question_link": "Buy and sell Stocks-1 tran allowed",
+        "question_text": "Buy and sell Stocks-1 tran allowed"
+    },
+    {
+        "id": "132",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy_and_sell_stocks_infinite_transaction_allowed/topic",
+        "question_text": "Buy & Sell Stock - Infinite Transactions Allowed"
+    },
+    {
+        "id": "133",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy_&_sell_stocks_with_transaction_fee/topic",
+        "question_text": "Buy And Sell Stocks With Transaction Fee"
+    },
+    {
+        "id": "134",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy_&_sell_stock_cooldown/topic",
+        "question_text": "Buy & Sell Stock - Cooldown"
+    },
+    {
+        "id": "135",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy_and_sell_stocks_two_transactions_allowed/topic",
+        "question_text": "Buy And Sell Stocks - Two Transactions Allowed"
+    },
+    {
+        "id": "136",
+        "topic": "DP",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy_and_sell_stocks_k_transactions_allowed/topic",
+        "question_text": "Buy and Sell Stocks- K Transactions Allowed"
+    },
+    {
+        "id": "137",
+        "topic": "Stack",
+        "question_link": "",
+        "question_text": "Implement the stack with push, pop, peak, print, isEmpty"
+    },
+    {
+        "id": "138",
+        "topic": "Queue",
+        "question_link": "",
+        "question_text": "Implement Queue with enqueue, dequeue, peak"
+    },
+    {
+        "id": "139",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/duplicate_brackets/topic",
+        "question_text": "Duplicate Brackets"
+    },
+    {
+        "id": "140",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/balanced_brackets/topic",
+        "question_text": "Balanced Brackets"
+    },
+    {
+        "id": "141",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/next_greater_element_to_the_right/topic",
+        "question_text": "Next Greater element to the Right"
+    },
+    {
+        "id": "142",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/stock_span/topic",
+        "question_text": "Stock Span"
+    },
+    {
+        "id": "143",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/largest_area_histogram/topic",
+        "question_text": "Largest Area Histogram"
+    },
+    {
+        "id": "144",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/sliding_window_maximum/topic",
+        "question_text": "Sliding Window Maximum"
+    },
+    {
+        "id": "145",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix_evaluation/topic",
+        "question_text": "Infix Evaluation"
+    },
+    {
+        "id": "146",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/infix_conversion/topic",
+        "question_text": "Infix Conversion"
+    },
+    {
+        "id": "147",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/postfix_evaluation_&_conversions/topic",
+        "question_text": "Postfix Evaluation and Conversion"
+    },
+    {
+        "id": "148",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/prefix_evaluation_&_conversions/topic",
+        "question_text": "Prefix Evaluation and Conversion"
+    },
+    {
+        "id": "149",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/celebrity_problem/topic",
+        "question_text": "Celebrity Problem"
+    },
+    {
+        "id": "150",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/merge_overlapping_interval/topic",
+        "question_text": "Merge Overlapping Interval"
+    },
+    {
+        "id": "151",
+        "topic": "Stack",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/stacks-and-queues/smallest_number_following_pattern/topic",
+        "question_text": "Smallest Number Following Pattern"
+    },
+    {
+        "id": "152",
+        "topic": "Linked List",
+        "question_link": "",
+        "question_text": "Implement Linked List with removeHead, removeTail, atIndex etc"
+    },
+    {
+        "id": "153",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/reverse_linked_list_pointer_iterative/topic",
+        "question_text": "Reverse Linked List (pointer Iterative)"
+    },
+    {
+        "id": "154",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/reverse_a_linked_list/topic",
+        "question_text": "Reverse A Linked List (data Iterative)"
+    },
+    {
+        "id": "155",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/reverse_linked_list_pointer/topic",
+        "question_text": "Reverse Linked List Pointer Recursive"
+    },
+    {
+        "id": "156",
+        "topic": "Linked List",
+        "question_link": "",
+        "question_text": "Reverse a Linked List - Data Recursive"
+    },
+    {
+        "id": "157",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/k_reverse_in_linked_list%20/topic",
+        "question_text": "K Reverse In Linked List"
+    },
+    {
+        "id": "158",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/mid_of_linked_list/topic",
+        "question_text": "Mid of Linked List"
+    },
+    {
+        "id": "159",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/merge_two_sorted_linked_list%20/topic",
+        "question_text": "Merge Two Sorted Linked List"
+    },
+    {
+        "id": "160",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/merge_sort_a_linked_list%20/topic",
+        "question_text": "Merge Sort Linked List"
+    },
+    {
+        "id": "161",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/remove_duplicates_in_sorted_linked_list/topic",
+        "question_text": "Remove Duplicates in Sorted Linked List"
+    },
+    {
+        "id": "162",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/odd_even_linked_list/topic",
+        "question_text": "Odd Even Linked List"
+    },
+    {
+        "id": "163",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/display_reverse_recursive/topic",
+        "question_text": "Display Reverse Recursive"
+    },
+    {
+        "id": "164",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/is_linked_list_a_palindrome/topic",
+        "question_text": "Is Linked List A Palindrome?"
+    },
+    {
+        "id": "165",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/fold_a_linked_list/topic",
+        "question_text": "Fold A Linked List"
+    },
+    {
+        "id": "166",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/add_two_linked_lists/topic",
+        "question_text": "Add Two Linked List"
+    },
+    {
+        "id": "167",
+        "topic": "Linked List",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/linked-lists/intersection_point_of_linkedlist%20/topic",
+        "question_text": "Intersection Point of Linked Lists"
+    },
+    {
+        "id": "168",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/generic_tree_constructor/topic",
+        "question_text": "Generic Tree Constructor"
+    },
+    {
+        "id": "169",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/display_a_generic_tree/topic",
+        "question_text": "Display a Generic Tree"
+    },
+    {
+        "id": "170",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/size_of_generic_tree/topic",
+        "question_text": "Size Of Generic Tree"
+    },
+    {
+        "id": "171",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/maximum_in_a_generic_tree/topic",
+        "question_text": "Maximum in a Generic Tree"
+    },
+    {
+        "id": "172",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/height_of_a_generic_tree/topic",
+        "question_text": "Height of a Generic Tree"
+    },
+    {
+        "id": "173",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/traversals_in_generic_tree/topic",
+        "question_text": "Traversals In Generic Tree"
+    },
+    {
+        "id": "174",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/level_order_of_generic_tree/topic",
+        "question_text": "Level Order of Generic Tree"
+    },
+    {
+        "id": "175",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/level_order_line_wise/topic",
+        "question_text": "Level Order-Line Wise"
+    },
+    {
+        "id": "176",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/levelorder_linewise_zig_zag/topic",
+        "question_text": "Level order Linewise Zig Zag"
+    },
+    {
+        "id": "177",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/level_order_traversal_more_approaches/topic",
+        "question_text": "Level Order Traversal - More Approaches"
+    },
+    {
+        "id": "178",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/mirror_of_generic_tree/topic",
+        "question_text": "Mirror Of A Generic Tree"
+    },
+    {
+        "id": "179",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/remove_leaves_in_generic_tree/topic",
+        "question_text": "Remove Leaves in Generic Tree"
+    },
+    {
+        "id": "180",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/linearize_a_generic_tree/topic",
+        "question_text": "Linearize A Generic Tree"
+    },
+    {
+        "id": "181",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/find_in_generic_tree/topic",
+        "question_text": "Find in Generic Tree"
+    },
+    {
+        "id": "182",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/node_to_root_path_in_generic_tree/topic",
+        "question_text": "Node To Root Path In Generic Tree"
+    },
+    {
+        "id": "183",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/lowest_common_ancestor_generic_tree/topic",
+        "question_text": "Lowest Common Ancestor - Generic Tree"
+    },
+    {
+        "id": "184",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/distance_between_two_nodes_in_a_generic_tree/topic",
+        "question_text": "Distance Between Two Nodes In A Generic Tree"
+    },
+    {
+        "id": "185",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/are_trees_similar_in_shape/topic",
+        "question_text": "Are Trees Similar In Shape"
+    },
+    {
+        "id": "186",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/is_generic_tree_symmetric/topic",
+        "question_text": "Is Generic tree Symmetric"
+    },
+    {
+        "id": "187",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/multisolver-gt/video",
+        "question_text": "Multisolver For Generic Tree"
+    },
+    {
+        "id": "188",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/predecessor_and_successor_of_an_element/topic",
+        "question_text": "Predecessor and Successor of an Element"
+    },
+    {
+        "id": "189",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/ceil_and_floor_in_a_generic_tree/topic",
+        "question_text": "Ceil and Floor in a Generic Tree"
+    },
+    {
+        "id": "190",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/kth_largest_element_generic_tree/topic",
+        "question_text": "Kth Largest Element - Generic Tree"
+    },
+    {
+        "id": "191",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/node_with_maximum_subtree_sum/topic",
+        "question_text": "Node with Maximum Subtree Sum:"
+    },
+    {
+        "id": "192",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/diameter_in_a_generic_tree/topic",
+        "question_text": "Diameter in a Generic Tree"
+    },
+    {
+        "id": "193",
+        "topic": "Generic Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/generic-tree/iterative_pre_order_and_post_order_of_generic_tree/topic",
+        "question_text": "Iterative Preorder and Postorder of Generic Tree"
+    },
+    {
+        "id": "194",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/binary_tree_constructor/topic",
+        "question_text": "Binary Tree Constructor"
+    },
+    {
+        "id": "195",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/display_a_binary_tree/topic",
+        "question_text": "Display Binary Tree"
+    },
+    {
+        "id": "196",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/size_sum_max_and_height/topic",
+        "question_text": "Size, Sum, Max and Height of a Binary Tree"
+    },
+    {
+        "id": "197",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/traversals_in_a_binary_tree/topic",
+        "question_text": "Traversals in a Binary Tree"
+    },
+    {
+        "id": "198",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/level_order_transversal_in_a_binary_tree/topic",
+        "question_text": "Level Order Traversal Of Binary Tree"
+    },
+    {
+        "id": "199",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/iterative_pre_post_and_inorder_traversals_in_binary_tree/topic",
+        "question_text": "Iterative Pre, Post And Inorder In Binary Tree"
+    },
+    {
+        "id": "200",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/find_node_to_root_path_in_binary_tree/topic",
+        "question_text": "Find Node to Root Path in Binary Tree"
+    },
+    {
+        "id": "201",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/Print_k_levels_down/topic",
+        "question_text": "Print K Levels Down"
+    },
+    {
+        "id": "202",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/print_nodes_k_distance_away/topic",
+        "question_text": "Print Nodes K Distance Away"
+    },
+    {
+        "id": "203",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/Path%20to%20leaf%20from%20root%20in%20range/topic",
+        "question_text": "Path To Leaf From Root In Range"
+    },
+    {
+        "id": "204",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/transform_to_left_cloned_tree/topic",
+        "question_text": "Transform to Left Cloned Tree"
+    },
+    {
+        "id": "205",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/transform_to_normal_from_left_cloned_tree/topic",
+        "question_text": "Transform to Normal from Left Cloned Tree"
+    },
+    {
+        "id": "206",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/print_single_child_nodes/topic",
+        "question_text": "Print Single Child Nodes"
+    },
+    {
+        "id": "207",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/remove_leaves_in_binary_tree/topic",
+        "question_text": "Remove Leaves In Binary Tree"
+    },
+    {
+        "id": "208",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/diameter_of_a_binary%20tree%20/topic",
+        "question_text": "Diameter of a Binary Tree"
+    },
+    {
+        "id": "209",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/tilt_of_a_binary_tree%20/topic",
+        "question_text": "Tilt of a Binary Tree"
+    },
+    {
+        "id": "210",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/is_a_binary_search_tree/topic",
+        "question_text": "Is a Binary Search Tree"
+    },
+    {
+        "id": "211",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/is_balanced_tree/topic",
+        "question_text": "Is Balanced Tree"
+    },
+    {
+        "id": "212",
+        "topic": "Binary Tree",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/largest_bst_subtree/topic",
+        "question_text": "Largest Bst Subtree"
+    },
+    {
+        "id": "213",
+        "topic": "BST",
+        "question_link": "https://www.youtube.com/watch?v=yGrs-VuPCYg&list=TLGGayX3_e2_M_UwNTEyMjAyMQ&t=3s&ab_channel=Pepcoding",
+        "question_text": "Constructor of Binary Search Tree - BST"
+    },
+    {
+        "id": "214",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/size-sum-max-min-find-in-bst-official/ojquestion",
+        "question_text": "Size, Sum, Max, Min, Find In Bst"
+    },
+    {
+        "id": "215",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/add-node-to-bst-official/ojquestion",
+        "question_text": "Add Node To Bst"
+    },
+    {
+        "id": "216",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/remove-node-in-bst-official/ojquestion",
+        "question_text": "Remove Node From Bst"
+    },
+    {
+        "id": "217",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/replace-with-sum-of-larger-official/ojquestion",
+        "question_text": "Replace With Sum Of Larger"
+    },
+    {
+        "id": "218",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/lca-bst-official/ojquestion",
+        "question_text": "Lca Of Bst"
+    },
+    {
+        "id": "219",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/pir-bst-official/ojquestion",
+        "question_text": "Print In Range"
+    },
+    {
+        "id": "220",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/tsp-bst-official/ojquestion",
+        "question_text": "Target Sum Pair In Bst"
+    },
+    {
+        "id": "221",
+        "topic": "BST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/tsp-bst-approaches/video",
+        "question_text": "Target Sum Pair in BST - more approaches"
+    },
+    {
+        "id": "222",
+        "topic": "Hash map / heapBST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/hashmap-official/ojquestion",
+        "question_text": "Write Hashmap"
+    },
+    {
+        "id": "223",
+        "topic": "Hash map / heapBST",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/highest_frequency_character/topic",
+        "question_text": "Highest Frequency Character"
+    },
+    {
+        "id": "224",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/get_common_elements_1/topic",
+        "question_text": "Get Common Elements-1"
+    },
+    {
+        "id": "225",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/get_common_elements_2/topic",
+        "question_text": "Get Common Elements-2"
+    },
+    {
+        "id": "226",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/longest_consecutive_sequence/topic",
+        "question_text": "Longest consecutive sequence"
+    },
+    {
+        "id": "227",
+        "topic": "Hash map / heap",
+        "question_link": "https://docs.google.com/spreadsheets/d/13sNHxsPAPuExMk8Uzzj6TzxwiHtDn0Pc/edit#",
+        "question_text": "Implement min and max heap"
+    },
+    {
+        "id": "228",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/k_largest_elements/topic",
+        "question_text": "K Largest Elements"
+    },
+    {
+        "id": "229",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/sort-ksorted-official/ojquestion",
+        "question_text": "Sort K-sorted Array"
+    },
+    {
+        "id": "230",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/median_priority_queue/topic",
+        "question_text": "Median Priority Queue"
+    },
+    {
+        "id": "231",
+        "topic": "Hash map / heap",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/merge_k_sorted_lists/topic",
+        "question_text": "Merge K sorted lists"
+    },
+    {
+        "id": "232",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/graph-representation/video",
+        "question_text": "Graph Implementation"
+    },
+    {
+        "id": "233",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/has_path/topic",
+        "question_text": "Has Path"
+    },
+    {
+        "id": "234",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/print-all-paths-official/ojquestion",
+        "question_text": "Print All Paths"
+    },
+    {
+        "id": "235",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/mutilsovler-graph-official/ojquestion",
+        "question_text": "Multisolver - Smallest, Longest, Ceil, Floor, Kthlargest Path"
+    },
+    {
+        "id": "236",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/gcc-official/ojquestion",
+        "question_text": "Get Connected Components Of A Graph"
+    },
+    {
+        "id": "237",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/is-graph-connected-official/ojquestion",
+        "question_text": "Is Graph Connected"
+    },
+    {
+        "id": "238",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/count-islands-official/ojquestion",
+        "question_text": "Number Of Islands"
+    },
+    {
+        "id": "239",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/perfect-friends-official/ojquestion",
+        "question_text": "Perfect Friends"
+    },
+    {
+        "id": "240",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/hamiltonian-official/ojquestion",
+        "question_text": "Hamiltonian Path And Cycle"
+    },
+    {
+        "id": "241",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/knights-tour-official/ojquestion",
+        "question_text": "Knights Tour"
+    },
+    {
+        "id": "242",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/bfs-graph-official/ojquestion",
+        "question_text": "Breadth First Traversal"
+    },
+    {
+        "id": "243",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/is-cyclic-official/ojquestion",
+        "question_text": "Is Graph Cyclic"
+    },
+    {
+        "id": "244",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/is-bipartite-official/ojquestion",
+        "question_text": "Is Graph Bipartite"
+    },
+    {
+        "id": "245",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/infection-spread-official/ojquestion",
+        "question_text": "Spread Of Infection"
+    },
+    {
+        "id": "246",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/shortest-path-in-weights-official/ojquestion",
+        "question_text": "Shortest Path In Weights / Dijkstra Algorithm"
+    },
+    {
+        "id": "247",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/minimum-wire-to-connect-all-pcs-official/ojquestion",
+        "question_text": "Minimum Wire Required To Connect All Pcs /  Prim's Algorithm"
+    },
+    {
+        "id": "248",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/compilation-order-official/ojquestion",
+        "question_text": "Order Of Compilation / Topological Sort Algorithm"
+    },
+    {
+        "id": "249",
+        "topic": "Graph",
+        "question_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/iterative-dft-official/ojquestion",
+        "question_text": "Iterative Depth First Traversal"
+    },
+    {
+        "id": "",
+        "topic": "",
+        "question_link": "",
+        "question_text": "Permutation - 1"
+    },
+    {
+        "id": "",
+        "topic": "",
+        "question_link": "",
+        "question_text": "Combinations - 1"
+    },
+    {
+        "id": "",
+        "topic": "",
+        "question_link": "",
+        "question_text": "Permutations - 2"
+    },
+    {
+        "id": "",
+        "topic": "",
+        "question_link": "",
+        "question_text": "Combinations - 2"
+    },
+    {
+        "id": "",
+        "topic": "",
+        "question_link": "",
+        "question_text": "Queens Permutations - 2d As 2d - Queen Chooses"
+    },
+    {
+        "id": "",
+        "topic": "",
+        "question_link": "",
+        "question_text": "Queens Combinations - 2d As 2d - Box Chooses"
+    }
+]

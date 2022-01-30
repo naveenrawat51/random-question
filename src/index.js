@@ -1,115 +1,114 @@
 import './styles/main.scss';
-import * as complexityData from './DS_types/allComplexityData';
-import * as sortComplexityData from './sorting-algorithms/allComplexityData';
 
-const getAllBtn = Array.prototype.slice.call(
-    document.querySelectorAll('button')
-);
-const mainContainer = document.getElementById('allBtnContainer');
-const complexityContainer = document.getElementById('complexityContainer');
-const sortComplexityContainer = document.getElementById(
-    'sortComplexityContainer'
-);
-const complexityDataRowElement = document.getElementById('complexityData');
-const sortComplexityDataRowElement = document.getElementById(
-    'sortComplexityData'
-);
-const codeSnippetContainers = document.querySelectorAll('.codeSnippet');
+const code = localStorage.getItem('codeName');
 
-function generateRowData(data) {
-    let result = `<td><a target="_blank" href="${data.url}">${data.type}</a></td>`;
-    for (let i = 0; i < data.complexityData.length; i++) {
-        result += `<td><code class="${data.complexityData[i].color}">${data.complexityData[i].complexity}</code></td>`;
+if (code == 'yash') {
+    let today = new Date().toLocaleDateString();
+    const currentDate = localStorage.getItem('todayDate');
+    if (today !== currentDate) {
+        localStorage.setItem('questions', JSON.stringify([]));
     }
-    return result;
-}
+    localStorage.setItem('todayDate', today);
 
-const showComplexity = (complexityData, type) => {
-    if (type == 'sort') {
-        sortComplexityContainer.classList.remove('hide');
-        sortComplexityDataRowElement.innerHTML = generateRowData(
-            complexityData
-        );
-    } else {
-        complexityContainer.classList.remove('hide');
-        complexityDataRowElement.innerHTML = generateRowData(complexityData);
-    }
-};
+    const questionCont = document.querySelector('.all-Questions-container');
 
-window.addEventListener('click', (event) => {
-    event.stopPropagation();
-    if (event.target.classList.contains('button')) {
-        getAllBtn.forEach((element) => {
-            if (event.target.value === 'Go To HOME') {
-                element.classList.remove('hide');
-                mainContainer.classList.remove('hide-heading');
-                event.target.classList.add('hide');
-                complexityContainer.classList.add('hide');
-                sortComplexityContainer.classList.add('hide');
+    fetch(
+        'https://random-questions-of-day-default-rtdb.firebaseio.com/allQuestions.json'
+    )
+        .then((data) => data.json())
+        .then((data) => {
+            const resData = data.filter(
+                (q) => q.doNotAppear == false || q.doNotAppear == undefined
+            );
+
+            if (today == currentDate) {
+                const quesArr = JSON.parse(localStorage.getItem('questions'));
+                let allQuestionStr = '';
+                for (let i = 0; i < 3; i++) {
+                    console.log('questions are in local storage');
+                    allQuestionStr += setupQuestion(resData, quesArr[i]);
+                }
+                questionCont.innerHTML = allQuestionStr;
             } else {
-                mainContainer.classList.add('hide-heading');
-                if (
-                    element.value !== event.target.value &&
-                    element.classList.contains('ds-btn')
-                ) {
-                    element.classList.add('hide');
+                let allQuestionStr = '';
+                for (let i = 0; i < 3; i++) {
+                    console.log('no question in local storage');
+                    allQuestionStr += setupQuestion(resData);
                 }
-                if (element.value === 'Go To HOME') {
-                    element.classList.remove('hide');
-                }
-            }
-
-            switch (event.target.value) {
-                case 'ARRAY':
-                    showComplexity(complexityData.array);
-                    return;
-                case 'STACK':
-                    showComplexity(complexityData.stack);
-                    return;
-                case 'LINKEDLIST':
-                    showComplexity(complexityData.linkedList);
-                    return;
-                case 'DOUBLY LINKEDLIST':
-                    showComplexity(complexityData.doublyLinkedList);
-                    return;
-                case 'HASH TABLE':
-                    showComplexity(complexityData.hashTable);
-                    return;
-                case 'BINARY SEARCH TREE':
-                    showComplexity(complexityData.binarySearchTree);
-                    return;
-                case 'AVL BINARY SEARCH TREE':
-                    showComplexity(complexityData.AvlBinarySearchTree);
-                    return;
-                case 'QUEUE':
-                    showComplexity(complexityData.queue);
-                    return;
-                case 'MIN HEAP':
-                    showComplexity(complexityData.heap);
-                    return;
-                case 'BUBBLE SORT':
-                    showComplexity(sortComplexityData.bubbleSort, 'sort');
-                    return;
-                case 'SELECTION SORT':
-                    showComplexity(sortComplexityData.selectionSort, 'sort');
-                    return;
-                case 'INSERTION SORT':
-                    showComplexity(sortComplexityData.insertionSort, 'sort');
-                    return;
-                case 'MERGE SORT':
-                    showComplexity(sortComplexityData.mergeSort, 'sort');
-                    return;
-                case 'QUICK SORT':
-                    showComplexity(sortComplexityData.quickSort, 'sort');
-                case 'HEAP SORT':
-                    showComplexity(sortComplexityData.heapSort, 'sort');
+                questionCont.innerHTML = allQuestionStr;
             }
         });
 
-        codeSnippetContainers.forEach((ele) => {
-            ele.getAttribute('data-type') === event.target.value
-                ? ele.classList.remove('hide')
-                : ele.classList.add('hide');
-        });
+    function getRandomNumberBetween(max) {
+        return Math.floor(Math.random() * max) + 1;
     }
-});
+
+    function setupQuestion(arr, q) {
+        const questionNumber = getRandomNumberBetween(arr.length - 1);
+        const currentQuestion = arr[questionNumber];
+        if (!q) {
+            const questions = JSON.parse(localStorage.getItem('questions'));
+            questions.push(currentQuestion);
+            localStorage.setItem('questions', JSON.stringify(questions));
+        }
+        const text = q ? q.question_text : currentQuestion.question_text;
+        const link = q ? q.question_link : currentQuestion.question_link;
+
+        return quesTemplate(text, link, null, q ? q : currentQuestion);
+    }
+
+    function quesTemplate(text, link, count, quesData) {
+        return `<div class="question-container">
+    <p class="today-date">${today}</p>
+    <div class="question-desc">
+        <a href="${link}" class="text" target="_blank">${text}</a>
+        <div>
+        <button class="btn ${quesData.isDisabled ? 'disable' : ''}" id=${
+            quesData.id
+        }>Solve Problem</button> 
+        </div>
+        </div>
+    <p class="appear-time">Appeared: ${count > 0 || 0}</p>
+    <p class="don-see"><span>I don't wanna see this again </span><input class="chbk" type="checkbox" id=${
+        quesData.id
+    }c></p>
+</div>`;
+    }
+
+    window.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (e.target.type == 'submit') {
+            const btnId = e.target.id;
+            const arrData = JSON.parse(localStorage.getItem('questions'));
+            console.log(arrData, btnId);
+            const currentQues = arrData.find((q) => q.id == btnId);
+
+            const chbox = document.getElementById(btnId + 'c');
+
+            const appCount =
+                currentQues && currentQues.appearCount
+                    ? parseInt(currentQues.appearCount) + 1
+                    : 1;
+            currentQues.appearCount = appCount;
+
+            currentQues.doNotAppear = chbox.checked;
+            currentQues.isDisabled = true;
+
+            console.log(e.target.id, currentQues, chbox.checked);
+
+            fetch(
+                `https://random-questions-of-day-default-rtdb.firebaseio.com/allQuestions/${currentQues.id}.json`,
+                {
+                    method: 'PUT',
+                    body: JSON.stringify(currentQues),
+                }
+            );
+
+            e.target.classList.add('disable');
+            localStorage.setItem('questions', JSON.stringify(arrData));
+        }
+    });
+} else {
+    const promptValue = prompt('Enter the code please');
+    localStorage.setItem('codeName', promptValue);
+}
