@@ -92,9 +92,6 @@ if (code == 'yash') {
             currentQues.appearCount = appCount;
 
             currentQues.doNotAppear = chbox.checked;
-            currentQues.isDisabled = true;
-
-            console.log(e.target.id, currentQues, chbox.checked);
 
             fetch(
                 `https://random-questions-of-day-default-rtdb.firebaseio.com/allQuestions/${currentQues.id}.json`,
@@ -105,6 +102,7 @@ if (code == 'yash') {
             );
 
             e.target.classList.add('disable');
+            currentQues.isDisabled = true;
             localStorage.setItem('questions', JSON.stringify(arrData));
         }
     });
