@@ -1500,39 +1500,39 @@
         "question_text": "Iterative Depth First Traversal"
     },
     {
-        "id": "",
-        "topic": "",
-        "question_link": "",
+        "id": "250",
+        "topic": "Recursion / Backtracking",
+        "question_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/permutation-i-official/ojquestion",
         "question_text": "Permutation - 1"
     },
     {
-        "id": "",
-        "topic": "",
-        "question_link": "",
+        "id": "251",
+        "topic": "Recursion / Backtracking",
+        "question_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/combinations-i-official/ojquestion",
         "question_text": "Combinations - 1"
     },
     {
-        "id": "",
-        "topic": "",
-        "question_link": "",
+        "id": "252",
+        "topic": "Recursion / Backtracking",
+        "question_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/permutations-ii-official/ojquestion",
         "question_text": "Permutations - 2"
     },
     {
-        "id": "",
-        "topic": "",
-        "question_link": "",
+        "id": "253",
+        "topic": "Recursion / Backtracking",
+        "question_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/combinations-2-official/ojquestion",
         "question_text": "Combinations - 2"
     },
     {
-        "id": "",
-        "topic": "",
-        "question_link": "",
+        "id": "254",
+        "topic": "Recursion / Backtracking",
+        "question_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/queens-permutations-2das2d-queen-chooses-official/ojquestion",
         "question_text": "Queens Permutations - 2d As 2d - Queen Chooses"
     },
     {
-        "id": "",
-        "topic": "",
-        "question_link": "",
+        "id": "255",
+        "topic": "Recursion / Backtracking",
+        "question_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/queens-combinations-2das2d-box-chooses-official/ojquestion",
         "question_text": "Queens Combinations - 2d As 2d - Box Chooses"
     }
 ]

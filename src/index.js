@@ -13,7 +13,7 @@ if (code == 'yash') {
     const questionCont = document.querySelector('.all-Questions-container');
 
     fetch(
-        'https://random-questions-of-day-default-rtdb.firebaseio.com/allQuestions.json'
+        'https://random-questions-of-day-default-rtdb.firebaseio.com/random-questions-of-day-default-rtdb.json'
     )
         .then((data) => data.json())
         .then((data) => {
@@ -94,7 +94,7 @@ if (code == 'yash') {
             currentQues.doNotAppear = chbox.checked;
 
             fetch(
-                `https://random-questions-of-day-default-rtdb.firebaseio.com/allQuestions/${currentQues.id}.json`,
+                `https://random-questions-of-day-default-rtdb.firebaseio.com/random-questions-of-day-default-rtdb/${currentQues.id}.json`,
                 {
                     method: 'PUT',
                     body: JSON.stringify(currentQues),
