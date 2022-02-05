@@ -93,6 +93,8 @@ if (code == 'yash') {
 
             currentQues.doNotAppear = chbox.checked;
 
+            delete currentQues.isDisabled;
+
             fetch(
                 `https://random-questions-of-day-default-rtdb.firebaseio.com/allQuestions/${currentQues.id}.json`,
                 {
